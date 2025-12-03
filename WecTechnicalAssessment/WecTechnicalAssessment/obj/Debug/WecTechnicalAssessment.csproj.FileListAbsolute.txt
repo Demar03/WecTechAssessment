@@ -1,0 +1,8 @@
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\obj\Debug\WecTechnicalAssessment.csproj.AssemblyReference.cache
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\obj\Debug\WecTechnicalAssessment.csproj.CoreCompileInputs.cache
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\bin\Debug\WecTechnicalAssessment.exe.config
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\bin\Debug\WecTechnicalAssessment.exe
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\bin\Debug\WecTechnicalAssessment.pdb
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\obj\Debug\WecTechnicalAssessment.exe
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\obj\Debug\WecTechnicalAssessment.pdb
+C:\Users\farru\source\repos\WecTechnicalAssessment\WecTechnicalAssessment\obj\Debug\WecTechnicalAssessment.exe.config
